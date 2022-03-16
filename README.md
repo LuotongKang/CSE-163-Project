@@ -1,5 +1,5 @@
 # CSE 163 project
-We analyze height data of different countries and tring to find its correlation with age, sex, and GDP per capita.
+We analyze height data of different countries and trying to find its correlation with age, sex, and GDP per capita.
 
 ## Datasets
 https://www.ncdrisc.org/downloads/bmi_height/height/all_countries/NCD_RisC_Lancet_2020_height_child_adolescent_country.csv
