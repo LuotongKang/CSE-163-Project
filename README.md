@@ -1,4 +1,5 @@
 # CSE 163 project
+## Author: Luotong Kang, Jenny Chen
 We analyze height data of different countries and trying to find its correlation with age, sex, and GDP per capita.
 
 ## Datasets
